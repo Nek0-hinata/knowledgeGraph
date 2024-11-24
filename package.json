@@ -20,13 +20,13 @@
     "@ant-design/icons": "5.5.1",
     "@ant-design/nextjs-registry": "1.0.2",
     "@faker-js/faker": "8.4.1",
-    "@heroicons/react": "2.1.5",
+    "@heroicons/react": "2.2.0",
     "@prisma/client": "5.22.0",
-    "@vercel/analytics": "1.4.0",
+    "@vercel/analytics": "1.4.1",
     "@vercel/postgres": "0.10.0",
     "@vercel/speed-insights": "1.1.0",
     "ahooks": "3.8.1",
-    "antd": "5.22.1",
+    "antd": "5.22.2",
     "bcrypt": "5.1.1",
     "clsx": "2.1.1",
     "dayjs": "1.11.13",
@@ -38,13 +38,13 @@
     "zod": "3.23.8"
   },
   "devDependencies": {
-    "@commitlint/cli": "19.5.0",
-    "@commitlint/config-conventional": "19.5.0",
+    "@commitlint/cli": "19.6.0",
+    "@commitlint/config-conventional": "19.6.0",
     "@snaplet/copycat": "5.1.0",
     "@snaplet/seed": "0.98.0",
     "@types/bcrypt": "5.0.2",
     "@types/lodash": "4.17.13",
-    "@types/node": "20.17.6",
+    "@types/node": "20.17.7",
     "@types/react": "18.3.12",
     "@types/react-dom": "18.3.1",
     "@vercel/style-guide": "6.0.0",
@@ -53,7 +53,7 @@
     "conventional-changelog-cli": "5.0.0",
     "cz-conventional-changelog": "3.3.0",
     "dotenv": "16.4.5",
-    "dotenv-cli": "7.4.2",
+    "dotenv-cli": "7.4.4",
     "eslint": "8.57.1",
     "eslint-config-next": "14.2.18",
     "eslint-config-prettier": "9.1.0",
@@ -63,9 +63,9 @@
     "prettier-plugin-tailwindcss": "0.6.9",
     "prisma": "5.22.0",
     "tailwindcss": "3.4.15",
-    "typescript": "5.6.3"
+    "typescript": "5.7.2"
   },
-  "packageManager": "pnpm@9.13.2",
+  "packageManager": "pnpm@9.14.2",
   "prisma": {
     "seed": "npx tsx prisma/seed/seed.ts"
   }
