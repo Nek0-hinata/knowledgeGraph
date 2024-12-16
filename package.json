@@ -45,7 +45,7 @@
     "@types/bcrypt": "5.0.2",
     "@types/lodash": "4.17.13",
     "@types/node": "20.17.10",
-    "@types/react": "18.3.16",
+    "@types/react": "18.3.17",
     "@types/react-dom": "18.3.5",
     "@vercel/style-guide": "6.0.0",
     "autoprefixer": "10.4.20",
