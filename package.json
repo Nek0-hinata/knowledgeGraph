@@ -16,8 +16,8 @@
     "start": "next start"
   },
   "dependencies": {
-    "@ant-design/cssinjs": "1.22.1",
-    "@ant-design/icons": "5.5.2",
+    "@ant-design/cssinjs": "1.23.0",
+    "@ant-design/icons": "5.6.0",
     "@ant-design/nextjs-registry": "1.0.2",
     "@faker-js/faker": "8.4.1",
     "@heroicons/react": "2.2.0",
@@ -44,7 +44,7 @@
     "@snaplet/seed": "0.98.0",
     "@types/bcrypt": "5.0.2",
     "@types/lodash": "4.17.14",
-    "@types/node": "20.17.14",
+    "@types/node": "20.17.16",
     "@types/react": "18.3.18",
     "@types/react-dom": "18.3.5",
     "@vercel/style-guide": "6.0.0",
